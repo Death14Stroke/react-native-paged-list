@@ -1,0 +1,22 @@
+{
+  "name": "@death14stroke/react-native-paged-list-example",
+  "displayName": "ReactNativePagedList Example",
+  "expo": {
+    "name": "@death14stroke/react-native-paged-list-example",
+    "slug": "death14stroke-react-native-paged-list-example",
+    "description": "Example app for @death14stroke/react-native-paged-list",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
