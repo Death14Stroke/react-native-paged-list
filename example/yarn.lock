@@ -1123,10 +1123,10 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
-"@death14stroke/react-native-paged-list@^1.0.4":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@death14stroke/react-native-paged-list/-/react-native-paged-list-1.0.4.tgz#54ab71d0bcb91be591da9fab3ab1803b7ad4cf99"
-  integrity sha512-TyeQXw8Swtsg/AGHOfpPZ0AFPuGPmt6wyxAQ7IylJMiPM9wsEnGlo7nlQ4OZU8RyZUGo3eBW2//ar22yyqKd/w==
+"@death14stroke/react-native-paged-list@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@death14stroke/react-native-paged-list/-/react-native-paged-list-1.0.6.tgz#4d6cb167832a5ae1925a935efc4fef6f9af1a68c"
+  integrity sha512-XP+GOtjG6hflTRzFiKFyAYMtj9JzYIrOekzixKXvNZmaaMe+h8HsX80kPA8obmepZMs94m+it46puBg/fnIm1g==
 
 "@expo/apple-utils@0.0.0-alpha.17":
   version "0.0.0-alpha.17"

@@ -12,7 +12,7 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"@death14stroke/react-native-paged-list": "^1.0.4",
+		"@death14stroke/react-native-paged-list": "^1.0.6",
 		"expo": "^40.0.0",
 		"expo-splash-screen": "~0.8.1",
 		"react": "16.13.1",
