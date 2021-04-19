@@ -1,6 +1,6 @@
 {
 	"name": "@death14stroke/react-native-paged-list",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"description": "React Native component for showing list with infinite data using pagination on scroll",
 	"main": "lib/commonjs/index",
 	"module": "lib/module/index",
